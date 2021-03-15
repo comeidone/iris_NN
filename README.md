@@ -37,11 +37,11 @@ main()
 
 [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Iris)
 
-Number of Instances: 150 (50 in each of three classes)
+* Number of Instances: 150 (50 in each of three classes)
 
-Number of Attributes: 4 numeric, predictive attributes and the class
+* Number of Attributes: 4 numeric, predictive attributes and the class
 
-Attribute Information:
+* Attribute Information:
    1. sepal length in cm
    2. sepal width in cm
    3. petal length in cm
@@ -51,16 +51,16 @@ Attribute Information:
       -- Iris Versicolour
       -- Iris Virginica
 
-Missing Attribute Values: None
+* Missing Attribute Values: None
 
-Summary Statistics:
-	         Min  Max   Mean    SD   Class Correlation
-   sepal length: 4.3  7.9   5.84  0.83    0.7826   
-    sepal width: 2.0  4.4   3.05  0.43   -0.4194
-   petal length: 1.0  6.9   3.76  1.76    0.9490  (high!)
-    petal width: 0.1  2.5   1.20  0.76    0.9565  (high!)
+* Summary Statistics:
+	             |Min  |Max   |Mean    |SD   |Class Correlation
+   sepal length: |4.3  |7.9   |5.84  |0.83   |0.7826   
+    sepal width: |2.0  |4.4   |3.05  |0.43   |-0.4194
+   petal length: |1.0  |6.9   |3.76  |1.76   |0.9490  (high!)
+    petal width: |0.1  |2.5   |1.20  |0.76   |0.9565  (high!)
 
-Class Distribution: 33.3% for each of 3 classes.
+* Class Distribution: 33.3% for each of 3 classes.
 
 ## Challenges
 
