@@ -54,6 +54,7 @@ main()
 * Missing Attribute Values: None
 
 * Summary Statistics:
+
 |---| Min  | Max   | Mean    | SD   | Class Correlation
 | sepal length: | 4.3  | 7.9   | 5.84  | 0.83   | 0.7826   
 | sepal width: | 2.0  | 4.4   | 3.05  | 0.43   | -0.4194
