@@ -42,14 +42,14 @@ main()
 * Number of Attributes: 4 numeric, predictive attributes and the class
 
 * Attribute Information:
-   1. sepal length in cm
-   2. sepal width in cm
-   3. petal length in cm
-   4. petal width in cm
-   5. class: 
-      -- Iris Setosa
-      -- Iris Versicolour
-      -- Iris Virginica
+   * sepal length in cm
+   * sepal width in cm
+   * petal length in cm
+   * petal width in cm
+   * class: 
+      * Iris Setosa
+      * Iris Versicolour
+      * Iris Virginica
 
 * Missing Attribute Values: None
 
@@ -79,8 +79,8 @@ Increasing the number of iris varieties to be discriminated against
 * <a href="https://commons.wikimedia.org/wiki/File:Siberian_Iris_Iris_sibirica_Top_Side_View_Green_2000px.jpg">Photo by and (c)2007 Derek Ramsey (Ram-Man)</a>, <a href="http://www.gnu.org/licenses/old-licenses/fdl-1.2.html">GFDL 1.2</a>, via Wikimedia Commons
 
 * dataset https://archive.ics.uci.edu/ml/datasets/Iris
-    Title: Iris Plants Database
-    Updated Sept 21 by C.Blake - Added discrepency information
+    * Title: Iris Plants Database
+    * Updated Sept 21 by C.Blake - Added discrepency information
     
     Sources:
      * Creator: R.A. Fisher
