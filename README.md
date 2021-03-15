@@ -2,9 +2,9 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# iris_NN
 
-iris_NN
+Final project for the Building AI course
 
 ## Summary
 
@@ -75,3 +75,13 @@ Increasing the number of iris varieties to be discriminated against
 ## Acknowledgments
 
 * <a href="https://commons.wikimedia.org/wiki/File:Siberian_Iris_Iris_sibirica_Top_Side_View_Green_2000px.jpg">Photo by and (c)2007 Derek Ramsey (Ram-Man)</a>, <a href="http://www.gnu.org/licenses/old-licenses/fdl-1.2.html">GFDL 1.2</a>, via Wikimedia Commons
+
+* dataset https://archive.ics.uci.edu/ml/datasets/Iris
+    
+    Title: Iris Plants Database
+	Updated Sept 21 by C.Blake - Added discrepency information
+    
+    Sources:
+     (a) Creator: R.A. Fisher
+     (b) Donor: Michael Marshall (MARSHALL%PLU@io.arc.nasa.gov)
+     (c) Date: July, 1988
