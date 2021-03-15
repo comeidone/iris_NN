@@ -77,9 +77,8 @@ Increasing the number of iris varieties to be discriminated against
 * <a href="https://commons.wikimedia.org/wiki/File:Siberian_Iris_Iris_sibirica_Top_Side_View_Green_2000px.jpg">Photo by and (c)2007 Derek Ramsey (Ram-Man)</a>, <a href="http://www.gnu.org/licenses/old-licenses/fdl-1.2.html">GFDL 1.2</a>, via Wikimedia Commons
 
 * dataset https://archive.ics.uci.edu/ml/datasets/Iris
-    
     Title: Iris Plants Database
-	Updated Sept 21 by C.Blake - Added discrepency information
+    Updated Sept 21 by C.Blake - Added discrepency information
     
     Sources:
      (a) Creator: R.A. Fisher
