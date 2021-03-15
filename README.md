@@ -83,6 +83,6 @@ Increasing the number of iris varieties to be discriminated against
     Updated Sept 21 by C.Blake - Added discrepency information
     
     Sources:
-     (a) Creator: R.A. Fisher
-     (b) Donor: Michael Marshall (MARSHALL%PLU@io.arc.nasa.gov)
-     (c) Date: July, 1988
+     * Creator: R.A. Fisher
+     * Donor: Michael Marshall (MARSHALL%PLU@io.arc.nasa.gov)
+     * Date: July, 1988
