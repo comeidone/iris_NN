@@ -27,9 +27,10 @@ Test the capacity of the neural network and put into practice what was learned i
 
 This is how you create code examples:
 ```
-def main():
-
-main()
+model.add(kr.layers.Dense(16, input_shape=(4,)))
+model.add(kr.layers.Activation("sigmoid"))
+model.add(kr.layers.Dense(3))
+model.add(kr.layers.Activation("softmax"))
 ```
 
 
